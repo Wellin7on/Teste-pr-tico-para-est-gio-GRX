@@ -1,0 +1,78 @@
+Teste prático para estágio GRX
+
+1 - Sobre programação, marque a alternativa que representa linguagens de programação:
+
+a)	C#, Ruby, C, Java
+
+2 - Sobre programação, responda qual a alternativa correta:
+
+d) Apenas a II,III são verdadeiras
+
+3 - Sobre programação, qual o valor de ‘a’? marque a alternativa correta:
+
+Void main() {
+Int a = 10;
+Int i = 0;
+While(i<10){
+        While(i<10){
+           a = a + 1;
+           i = i + 1;
+        }
+  {	
+     Print (a): 20
+      }
+
+b) 20
+
+4 - Sobre programação, qual o valor de ‘a’? marque a alternativa correta:
+
+void main() {
+
+ int a = 0;
+ int x = 0;
+  
+  for (int i = 0 ; i < 10 ; i++){
+    
+    while (x<5){
+      
+      x = x+1;
+        a = a+1;
+    }
+    x = 0;
+  }
+  
+  print (a);
+  
+}
+a = 50
+
+e) 50
+
+
+6 - Sobre programação, responda como podemos classificar a lógica utilizada no algoritmo da questão 5
+
+d) recursiva
+
+
+
+    
+7 - O que consiste um CRUD?
+
+CRUD tipicamente refere-se a operações performadas em um banco de dados ou base de dados, mas também pode aplicar-se para funções de alto nível de uma aplicação, como exclusões reversíveis, onde a informação não é realmente deletada, mas é marcada como deletada via status.
+
+8 - O que é front-end? Cite algumas linguagens pertencentes a esse grupo.
+
+O Front-end está muito relacionado com a interface gráfica do projeto. Ou seja, é onde se desenvolve a aplicação com a qual o usuário irá interagir diretamente, seja em softwares, sites, aplicativos, etc.
+Linguagens = JavaScript, CSS, React e HTML são as linguagens de front-end amplamente reconhecidas.
+
+9 - O que é back-end? Cite algumas linguagens pertencentes a esse grupo.
+
+backend está relacionada com servidores, bancos de dados, segurança, estrutura, gerenciamento de conteúdo e atualizações.
+Esse tipo de aplicação serve para tratar os dados e também é o local onde ocorrem as inserções, arquivamentos e leituras de dados, por trás de uma aplicação.
+De forma resumida, são recursos que garantem a concretização dos processos mais simples em um ambiente eletrônico, como buscas em sites de compra ou até mesmo as ações mais complexas.
+Linguagens = python, Rails, Java, C#, Swift, Ruby, JavaScript
+
+19 - O que é Git? Para que serve?
+
+O Git é um projeto de código aberto maduro e com manutenção ativa, Um número impressionante de projetos de software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto.
+Serve = Git é o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
